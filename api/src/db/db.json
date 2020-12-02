@@ -3,5 +3,32 @@
     "id": "jBWMVGjm50l6LGwepDoty",
     "username": "frontendmaster"
   },
-  "pet": []
+  "pet": [
+    {
+      "id": "1",
+      "createdAt": 12345,
+      "name": "dan",
+      "type": "DOG"
+    },
+    {
+      "id": "2",
+      "createdAt": 123456,
+      "name": "coco",
+      "type": "CAT"
+    },
+    {
+      "id": "8BsQCe_Nul9ViwFiPl6SG",
+      "createdAt": 1606912538046,
+      "input": {
+        "name": "Choco",
+        "type": "DOG"
+      }
+    },
+    {
+      "id": "u57o7ld1sNSWiIWpSk6QS",
+      "createdAt": 1606912959798,
+      "name": "Cornflakes",
+      "type": "DOG"
+    }
+  ]
 }
