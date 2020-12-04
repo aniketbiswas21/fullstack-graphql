@@ -8,27 +8,22 @@
       "id": "1",
       "createdAt": 12345,
       "name": "dan",
-      "type": "DOG"
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
     },
     {
       "id": "2",
       "createdAt": 123456,
       "name": "coco",
-      "type": "CAT"
-    },
-    {
-      "id": "8BsQCe_Nul9ViwFiPl6SG",
-      "createdAt": 1606912538046,
-      "input": {
-        "name": "Choco",
-        "type": "DOG"
-      }
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
     },
     {
       "id": "u57o7ld1sNSWiIWpSk6QS",
       "createdAt": 1606912959798,
       "name": "Cornflakes",
-      "type": "DOG"
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
     }
   ]
 }
